@@ -1,0 +1,12 @@
+label.error.fail-alert {
+    color: red;
+    
+}
+input.error{
+    border: 2px solid red;
+}
+
+input.valid.success-alert {
+    border: 2px solid #4CAF50;
+    color: green;
+}

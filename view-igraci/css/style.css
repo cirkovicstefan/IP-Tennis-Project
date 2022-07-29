@@ -1,0 +1,46 @@
+/* .gradient-custom {
+
+    background-image: url("../images/tennis.jpg");
+    background-position: center; 
+    background-size: cover;
+    
+ } */
+body {
+  background-image: url('../images/tennis.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /*margin-top: 100px;     background-attachment: fixed;
+*/
+}
+.container {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: .75em;
+  padding-right: .75em;
+}
+
+.card-registration .select-arrow {
+  top: 13px;
+}
+
+#formaReg label {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+  text-align: center;
+  padding-left: 5px
+}
+
+#formaReg input {
+  box-sizing: border-box;
+  border: 3px solid rgb(94, 90, 90);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}

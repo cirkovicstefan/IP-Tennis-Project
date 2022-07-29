@@ -1,0 +1,36 @@
+body {
+    background-image: url('../images/pexels-cottonbro-5739118.jpg');
+    background-repeat: no-repeat;
+     background-position: center; 
+     background-size: cover;
+    /*margin-top: 100px;     background-attachment: fixed;
+*/  }
+  label{  
+    color:rgb(241, 88, 33); 
+  }
+  #notaccount
+  {
+    text-align:right;
+    font-size:15px;
+    color:#000;
+    font-weight:500; 
+    padding-right:20px
+  }
+  span{
+     color:orangered; 
+     font-size: 24px;
+  }
+  .form-control{
+     border: 2px solid orangered;
+  }
+  .btn{
+     color: white;
+     font-size: 21px;
+     padding: 8px 20px;
+  }
+  h2{
+   font-weight: 700px;
+   color:rgb(241, 88, 33); 
+
+  }
+ 
